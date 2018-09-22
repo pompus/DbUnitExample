@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<user_profile userid="test2@gmail.com" profile="user2"/>
+<profile_details profile="user2" role_id="2" />
+</dataset>
